@@ -3,7 +3,7 @@
 ## Acessando web service RESTful público (omdbapi)
 ## Desenvolvido em ambiente acadêmico com TypeScript
 
-# Dependências utilizadas:
+## Dependências utilizadas:
 -   "axios": "^0.24.0",
 -   "polished": "^4.1.3",
 -   "react": "^17.0.2",
