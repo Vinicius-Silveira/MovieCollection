@@ -1,6 +1,6 @@
 # MovieCollection
 
-## Acessando web service RESTful público (omdbapi)
+## Acessando web service RESTful público (http://www.omdbapi.com/)
 ## Desenvolvido em ambiente acadêmico com TypeScript
 
 ## Dependências utilizadas:
