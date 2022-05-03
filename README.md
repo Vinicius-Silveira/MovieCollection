@@ -1,7 +1,7 @@
 # MovieCollection
 
-## Acessando web service RESTful público (http://www.omdbapi.com/)
-## Desenvolvido em ambiente acadêmico com TypeScript
+### Acessando web service RESTful público (http://www.omdbapi.com/)
+### Desenvolvido em ambiente acadêmico com TypeScript
 
 ## Dependências utilizadas:
 -   "axios": "^0.24.0",
